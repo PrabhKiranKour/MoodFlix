@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mood-Based Movie Recommendation Agent
 
 An AI-powered movie recommendation system that analyzes your mood from text input and suggests movies that match your emotional state.
@@ -201,3 +202,6 @@ Feel free to submit issues, feature requests, or pull requests to improve the sy
 ---
 
 **Enjoy discovering movies that match your mood! 🎬✨**
+=======
+# MoodFlix
+>>>>>>> ec7f64160b2da952f591b99fd17708efd0f37b4b
